@@ -57,9 +57,9 @@
 <br>
 
 <table align="center" width="100%" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
+  <tr style="border: none; border-collapse: collapse;">
     <!-- Langauges -->
-    <td style="border: none;" align="center">
+    <td style="border: none; border-collapse: collapse;" align="center">
       <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
       <a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
       <a src=""><img src="https://img.icons8.com/color/48/000000/php.png"/></a>
@@ -68,17 +68,17 @@
       <a src=""><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
     </td>
     <!-- Frameworks -->
-    <td style="border: none;" align="center">
+    <td style="border: none; border-collapse: collapse;" align="center">
       <a src="https://reactnative.dev/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
       <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
       <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
     </td>
     <!-- Machine Learning -->        
-    <td style="border: none;" align="center">
+    <td style="border: none; border-collapse: collapse;" align="center">
       <a src=""><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></a>
     </td>
     <!-- Databases -->        
-    <td style="border: none;" align="center">
+    <td style="border: none; border-collapse: collapse;" align="center">
       <a src=""><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
       <a src=""><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
       <a src=""><img src="https://img.icons8.com/color/48/000000/mysql.png"/></a>
@@ -86,29 +86,29 @@
       <a src=""><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
     </td>
     <!-- Cloud Providers -->        
-    <td style="border: none;" align="center">
+    <td style="border: none; border-collapse: collapse;" align="center">
       <a src=""><img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/></a>
       <a src=""><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
     </td>
     <!-- CI/CD -->        
-    <td style="border: none;" align="center">
+    <td style="border: none; border-collapse: collapse;" align="center">
       <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
       <a src="https://www.jenkins.io/"><img src="https://img.icons8.com/color/48/000000/jenkins.png"/></a>
     </td>
     <!-- Version Control -->        
-    <td style="border: none;" align="center">
+    <td style="border: none; border-collapse: collapse;" align="center">
       <a src=""><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
       <a src=""><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
       <a src=""><img src="https://img.icons8.com/color/48/000000/bitbucket.png"/></a>
     </td>
     <!-- Tools -->        
-    <td style="border: none;" align="center">
+    <td style="border: none; border-collapse: collapse;" align="center">
       <a src="https://code.visualstudio.com/"><img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/></a>
       <a src=""><img src="https://img.icons8.com/color/48/000000/markdown.png"/></a>
     </td>
     </td>
     <!-- OSes -->        
-    <td style="border: none;" align="center">
+    <td style="border: none; border-collapse: collapse;" align="center">
       <a src=""><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
       <a src=""><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></a>
       <a src=""><img src="https://img.icons8.com/color/48/000000/debian.png"/></a>
@@ -133,11 +133,11 @@
 <h3 align="center">Stats</h3>
 
 <table align="center" width="100%" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="border: none;">
+  <tr style="border: none; border-collapse: collapse;">
+    <td style="border: none; border-collapse: collapse;">
       <img src="https://github-readme-stats.vercel.app/api?username=pupupulp&count_private=true&show_icons=true&include_all_commits=true&custom_title=Github Stats&hide_title=true"/>
     </td>
-    <td style="border: none;">
+    <td style="border: none; border-collapse: collapse;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pupupulp&langs_count=8&layout=compact&hide_title=true"/>
     </td>
   </tr>
