@@ -209,7 +209,7 @@
   <div width="25%" style=display:inline-table;">
     <img src="https://github-readme-stats.vercel.app/api?username=pupupulp&count_private=true&show_icons=true&include_all_commits=true&custom_title=Github Stats&hide_title=true"/>
   </div>
-  <div width="24%" style="display:inline-table;">
+  <div width="15%" style="display:inline-table;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pupupulp&langs_count=8&layout=compact"/>
   </div>
 </div>
