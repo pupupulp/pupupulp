@@ -35,27 +35,89 @@
     alt="pupupulp" 
     height="20" width="20"/>
   </a>
+
+  <a href="https://500px.com/p/martinece?view=photos" target="blank">
+  <img align="center" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/500px.svg"
+    alt="martinece" 
+    height="20" width="20"/>
+  </a>
+
+  <a href="https://www.eyeem.com/u/martinece" target="blank">
+  <img align="center" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/eyeem.svg"
+    alt="martinece" 
+    height="20" width="20"/>
+  </a>
 </p>
 
-<h2 align="center">A subtle developer from PH</h2>
+<h2 align="center">A subtle developer from Philippines (PH)</h2>
 
-<h3 align="center">Github Stats</h3>
+<br>
+<br>
 
 <table align="center" width="100%" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td colspan="2">
-      <img src="https://github-profile-trophy.vercel.app/?username=pupupulp"/>
+  <tr style="border: none;">
+    <!-- Langauges -->
+    <td style="border: none;" align="center">
+      <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+      <a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+      <a src=""><img src="https://img.icons8.com/color/48/000000/php.png"/></a>
+      <a src=""><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
+      <a src=""><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a>
+      <a src=""><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=pupupulp&count_private=true&show_icons=true&include_all_commits=true"/>
+    <!-- Frameworks -->
+    <td style="border: none;" align="center">
+      <a src="https://reactnative.dev/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+      <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+      <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pupupulp&langs_count=10&layout=compact"/>
+    <!-- Machine Learning -->        
+    <td style="border: none;" align="center">
+      <a src=""><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></a>
+    </td>
+    <!-- Databases -->        
+    <td style="border: none;" align="center">
+      <a src=""><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+      <a src=""><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
+      <a src=""><img src="https://img.icons8.com/color/48/000000/mysql.png"/></a>
+      <a src=""><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
+      <a src=""><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
+    </td>
+    <!-- Cloud Providers -->        
+    <td style="border: none;" align="center">
+      <a src=""><img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/></a>
+      <a src=""><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
+    </td>
+    <!-- CI/CD -->        
+    <td style="border: none;" align="center">
+      <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
+      <a src="https://www.jenkins.io/"><img src="https://img.icons8.com/color/48/000000/jenkins.png"/></a>
+    </td>
+    <!-- Version Control -->        
+    <td style="border: none;" align="center">
+      <a src=""><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+      <a src=""><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+      <a src=""><img src="https://img.icons8.com/color/48/000000/bitbucket.png"/></a>
+    </td>
+    <!-- Tools -->        
+    <td style="border: none;" align="center">
+      <a src="https://code.visualstudio.com/"><img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/></a>
+      <a src=""><img src="https://img.icons8.com/color/48/000000/markdown.png"/></a>
+    </td>
+    </td>
+    <!-- OSes -->        
+    <td style="border: none;" align="center">
+      <a src=""><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
+      <a src=""><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></a>
+      <a src=""><img src="https://img.icons8.com/color/48/000000/debian.png"/></a>
     </td>
   </tr>
 </table>
+
+<br>
+<br>
 
 <h3 align="center">Featured Project</h3>
 
@@ -65,15 +127,19 @@
 </a>
 </div>
 
-<h3 align="center">Recent Activities</h3>
+<br>
+<br>
 
+<h3 align="center">Stats</h3>
 
-<div align="center">
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/pupupulp/unpayd-app/pull/10) in [pupupulp/unpayd-app](https://github.com/pupupulp/unpayd-app)
-2. 🗣 Commented on [#5](https://github.com/pupupulp/unpayd-app/issues/5) in [pupupulp/unpayd-app](https://github.com/pupupulp/unpayd-app)
-3. 🎉 Merged PR [#9](https://github.com/pupupulp/unpayd-app/pull/9) in [pupupulp/unpayd-app](https://github.com/pupupulp/unpayd-app)
-4. 💪 Opened PR [#9](https://github.com/pupupulp/unpayd-app/pull/9) in [pupupulp/unpayd-app](https://github.com/pupupulp/unpayd-app)
-5. ❗️ Closed issue [#4](https://github.com/pupupulp/unpayd-app/issues/4) in [pupupulp/unpayd-app](https://github.com/pupupulp/unpayd-app)
-<!--END_SECTION:activity-->
-</div>
+<table align="center" width="100%" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=pupupulp&count_private=true&show_icons=true&include_all_commits=true&custom_title=Github Stats&hide_title=true"/>
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pupupulp&langs_count=8&layout=compact&hide_title=true"/>
+    </td>
+  </tr>
+</table>
+
