@@ -205,12 +205,10 @@
 
 <h3 align="center">Stats</h3>
 
-<div align="center" width="50%" style="white-space: nowrap; word-spacing:-1em;">
-  <div width="25%" style=display:inline-table;">
-    <img src="https://github-readme-stats.vercel.app/api?username=pupupulp&count_private=true&show_icons=true&include_all_commits=true&custom_title=Github Stats&hide_title=true"/>
-  </div>
-  <div width="15%" style="display:inline-table;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pupupulp&langs_count=8&layout=compact"/>
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pupupulp&count_private=true&show_icons=true&include_all_commits=true&custom_title=Github Stats&hide_title=true"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pupupulp&langs_count=8&layout=compact&hide_title=true"/>
 </div>
 
