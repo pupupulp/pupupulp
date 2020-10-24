@@ -205,14 +205,12 @@
 
 <h3 align="center">Stats</h3>
 
-<table align="center" width="100%" cellspacing="0" cellpadding="0" style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=pupupulp&count_private=true&show_icons=true&include_all_commits=true&custom_title=Github Stats&hide_title=true"/>
-    </td>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pupupulp&langs_count=8&layout=compact&hide_title=true"/>
-    </td>
-  </tr>
-</table>
+<div align="center" width="100%">
+  <div width="50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=pupupulp&count_private=true&show_icons=true&include_all_commits=true&custom_title=Github Stats&hide_title=true"/>
+  </div>
+  <div width="50%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pupupulp&langs_count=8&layout=compact&hide_title=true"/>
+  </div>
+</div>
 
