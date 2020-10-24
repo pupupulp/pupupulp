@@ -39,7 +39,7 @@
 
 <h2 align="center">A subtle developer from PH</h2>
 
-<h3 align="center">Stats</h3>
+<h3 align="center">Github Stats</h3>
 
 <table align="center" width="100%">
   <tr>
