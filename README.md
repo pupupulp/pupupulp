@@ -206,10 +206,10 @@
 <h3 align="center">Stats</h3>
 
 <div align="center" width="100%" style="white-space: nowrap;">
-  <div style="width:50%; display:inline-block;">
+  <div style="width:40%; display:inline-block;">
     <img src="https://github-readme-stats.vercel.app/api?username=pupupulp&count_private=true&show_icons=true&include_all_commits=true&custom_title=Github Stats&hide_title=true"/>
   </div>
-  <div style="width:30.5%; display:inline-block;">
+  <div style="width:24.5%; display:inline-block;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pupupulp&langs_count=8&layout=compact"/>
   </div>
 </div>
