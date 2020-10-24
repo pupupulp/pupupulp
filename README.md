@@ -68,3 +68,9 @@
 <h3 align="center">Recent Activities</h3>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#10](https://github.com/pupupulp/unpayd-app/pull/10) in [pupupulp/unpayd-app](https://github.com/pupupulp/unpayd-app)
+2. 🗣 Commented on [#5](https://github.com/pupupulp/unpayd-app/issues/5) in [pupupulp/unpayd-app](https://github.com/pupupulp/unpayd-app)
+3. 🎉 Merged PR [#9](https://github.com/pupupulp/unpayd-app/pull/9) in [pupupulp/unpayd-app](https://github.com/pupupulp/unpayd-app)
+4. 💪 Opened PR [#9](https://github.com/pupupulp/unpayd-app/pull/9) in [pupupulp/unpayd-app](https://github.com/pupupulp/unpayd-app)
+5. ❗️ Closed issue [#4](https://github.com/pupupulp/unpayd-app/issues/4) in [pupupulp/unpayd-app](https://github.com/pupupulp/unpayd-app)
+<!--END_SECTION:activity-->
