@@ -58,13 +58,47 @@
 
 <img src="https://komarev.com/ghpvc/?username=pupupulp&label=Profile%20views&color=0e75b6&style=flat" alt="pupupulp" />
 
-- <span><img width="20px" src="https://img.icons8.com/color/48/000000/source-code.png"/> I’m currently working on **[Spasojevic JS](https://github.com/pupupulp/spasojevic-js)**.</span>
+- <span><img width="20px" src="https://img.icons8.com/color/48/000000/source-code.png"/> I’m currently working on **[Unpayd App](https://github.com/pupupulp/unpayd-app)**.</span>
 - <span><img width="20px" src="https://img.icons8.com/color/48/000000/teamwork.png"/> I’m open to collaborate with any **Open Source** projects.</span>
-- <span><img width="20px" src="https://img.icons8.com/color/48/000000/teamwork.png"/> I’m looking for help with **[Unpayd App](https://github.com/pupupulp/unpayd-app)**.</span>
-- <span><img width="20px" src="https://img.icons8.com/color/48/000000/learning.png"/> I’m currently learning **Machine Learning**.</span>
+- <span><img width="20px" src="https://img.icons8.com/color/48/000000/teamwork.png"/> I’m looking for help with **[Spasojevic JS](https://github.com/pupupulp/spasojevic-js)**.</span>
+- <span><img width="20px" src="https://img.icons8.com/color/48/000000/learning.png"/> I’m currently learning **Mobile App Development** & **Machine Learning**.</span>
 - <span><img width="20px" src="https://img.icons8.com/color/48/000000/ask-question.png"/> Ask me about **nothing** LOL!</span>
 - <span><img width="20px" src="https://img.icons8.com/color/48/000000/important-mail.png"/> How to reach me? Email me at **mece.development@gmail.com**.<span>
 - <span><img width="20px" src="https://img.icons8.com/color/48/000000/prototype.png"/> All of my projects are available at **coming soon**.<span>
+
+<br>
+<br>
+
+<h3 align="center">Currently Working With</h3>
+
+<br>
+
+<!-- Current -->
+<div align="center">
+  <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+  <a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+  <a src=""><img src="https://img.icons8.com/color/48/000000/markdown.png"/></a>
+  <a src=""><img src="https://img.icons8.com/color/48/000000/sql.png"/></a>
+  <a src="https://reactnative.dev/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+  <a src=""><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
+  <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+  <a src=""><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+  <a src=""><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
+  <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
+  <a src="https://www.docker.com/resources/what-container"><img src="https://img.icons8.com/color/48/000000/docker-container.png"/></a>
+  <a src=""><img src="https://img.icons8.com/color/48/000000/nginx.png"/></a>
+  <a src=""><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+  <a src=""><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+  <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+  <a src="https://yarnpkg.com/"><img src="https://img.icons8.com/color/48/000000/clew.png"/></a>
+  <a src="https://code.visualstudio.com/"><img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/></a>
+  <a src=""><img src="https://img.icons8.com/color/48/000000/chrome--v1.png"/></a>
+  <a src=""><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
+  <a src=""><img src="https://img.icons8.com/color/48/000000/console.png"/></a>
+  <a src=""><img src="https://img.icons8.com/color/48/000000/trello.png"/></a>
+  <a src=""><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></a>
+  <a src="https://alpinelinux.org/"><img src="https://img.icons8.com/color/48/000000/alps.png"/></a>
+</div>
 
 <br>
 <br>
