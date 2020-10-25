@@ -71,6 +71,8 @@
 
 <h3 align="center">Experiences</h3>
 
+<br>
+
 <!-- Langauges -->
 <div align="center">
   <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
@@ -209,6 +211,8 @@
 
 <h3 align="center">Featured Project</h3>
 
+<br>
+
 <div align="center">
 <a href="https://github.com/pupupulp/unpayd-app">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pupupulp&repo=unpayd-app&show_owner=true"/>
@@ -219,6 +223,8 @@
 <br>
 
 <h3 align="center">Stats</h3>
+
+<br>
 
 <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=pupupulp&count_private=true&show_icons=true&include_all_commits=true&custom_title=Github Stats&hide_title=true"/>
 
