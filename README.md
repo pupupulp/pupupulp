@@ -1,4 +1,4 @@
-<h1 align="center">Hi!, I'm Eagan Martin</h1>
+<h1 align="center">Hi!, I'm <a href="http://pupupulp.github.io/">Eagan Martin</a></h1>
 
 <p align="center">
   <a href="https://github.com/pupupulp" target="blank">
@@ -51,7 +51,20 @@
   </a>
 </p>
 
-<h2 align="center">A subtle developer from Philippines (PH)</h2>
+<h2 align="center">A subtle developer from the Philippines (PH)</h2>
+
+<br>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=pupupulp&label=Profile%20views&color=0e75b6&style=flat" alt="pupupulp" />
+
+- <span><img width="20px" src="https://img.icons8.com/color/48/000000/source-code.png"/> I’m currently working on **[Spasojevic JS](https://github.com/pupupulp/spasojevic-js)**.</span>
+- <span><img width="20px" src="https://img.icons8.com/color/48/000000/teamwork.png"/> I’m open to collaborate with any **Open Source** projects.</span>
+- <span><img width="20px" src="https://img.icons8.com/color/48/000000/teamwork.png"/> I’m looking for help with **[Unpayd App](https://github.com/pupupulp/unpayd-app)**.</span>
+- <span><img width="20px" src="https://img.icons8.com/color/48/000000/learning.png"/> I’m currently learning **Machine Learning**.</span>
+- <span><img width="20px" src="https://img.icons8.com/color/48/000000/ask-question.png"/> Ask me about **nothing** LOL!</span>
+- <span><img width="20px" src="https://img.icons8.com/color/48/000000/important-mail.png"/> How to reach me? Email me at **mece.development@gmail.com**.<span>
+- <span><img width="20px" src="https://img.icons8.com/color/48/000000/prototype.png"/> All of my projects are available at **coming soon**.<span>
 
 <br>
 <br>
