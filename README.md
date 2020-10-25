@@ -260,8 +260,8 @@
 
 <br>
 
-<div>
-<img align="left" height="200px" width="50%" src="https://github-readme-stats.vercel.app/api?username=pupupulp&count_private=true&show_icons=true&include_all_commits=true&custom_title=Github Stats&hide_title=true"/>
+<div align="center">
+<img align="left" height="200px" width="55%" src="https://github-readme-stats.vercel.app/api?username=pupupulp&count_private=true&show_icons=true&include_all_commits=true&custom_title=Github Stats&hide_title=true"/>
 
-<img align="right" height="200px" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pupupulp&langs_count=8&layout=compact&hide_title=true"/>
+<img align="right" height="200px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pupupulp&langs_count=8&layout=compact&hide_title=true"/>
 </div>
