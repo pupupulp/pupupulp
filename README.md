@@ -69,6 +69,8 @@
 <br>
 <br>
 
+<h3 align="center">Experiences</h3>
+
 <!-- Langauges -->
 <div align="center">
   <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
