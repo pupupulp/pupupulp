@@ -60,7 +60,7 @@
 
 - <span><img width="20px" src="https://img.icons8.com/color/48/000000/source-code.png"/> I’m currently working on **[Unpayd App](https://github.com/pupupulp/unpayd-app)**.</span>
 - <span><img width="20px" src="https://img.icons8.com/color/48/000000/teamwork.png"/> I’m open to collaborate with any **Open Source** projects.</span>
-- <span><img width="20px" src="https://img.icons8.com/color/48/000000/teamwork.png"/> I’m looking for help with **[Spasojevic JS](https://github.com/pupupulp/spasojevic-js)**.</span>
+- <span><img width="20px" src="https://img.icons8.com/color/48/000000/connectivity-and-help.png"/> I’m looking for help with **[Spasojevic JS](https://github.com/pupupulp/spasojevic-js)**.</span>
 - <span><img width="20px" src="https://img.icons8.com/color/48/000000/learning.png"/> I’m currently learning **Mobile App Development** & **Machine Learning**.</span>
 - <span><img width="20px" src="https://img.icons8.com/color/48/000000/ask-question.png"/> Ask me about **nothing** LOL!</span>
 - <span><img width="20px" src="https://img.icons8.com/color/48/000000/important-mail.png"/> How to reach me? Email me at **mece.development@gmail.com**.<span>
